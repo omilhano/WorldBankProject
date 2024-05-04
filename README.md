@@ -37,4 +37,5 @@ The data used in this project is sourced from the World Bank, specifically focus
 For more information about the data sources, refer to the following:
 
 - [World Bank Open Data](https://data.worldbank.org/)
-- [Eurostat Open Data]([https://data.worldbank.org/topic/environment](https://ec.europa.eu/eurostat/data/database))
+- [Eurostat Open Data](https://ec.europa.eu/eurostat/data/database)
+
