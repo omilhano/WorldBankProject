@@ -27,6 +27,16 @@ The report includes the following tabs:
 2. **European Environmental Taxes**
 3. **CO2 Emissions per Capita**
 4. **PM 2.5 Concentration**
+5. **European Respiratory Deaths**
+6. **Temperature Anomaly**
+7. **Share Forest/Land Area**
+8. **Electricity Production from Fossil Fuels**
+9. **Global Population**
+10. **Greenhouse emissions**
+11. **Globa plastic production**
+12. **Share plastic fate**
+13. **Inflation**
+14. **Access to electricity**
 
 Feel free to navigate through these tabs to explore specific themes and datasets.
 
@@ -38,4 +48,6 @@ For more information about the data sources, refer to the following:
 
 - [World Bank Open Data](https://data.worldbank.org/)
 - [Eurostat Open Data](https://ec.europa.eu/eurostat/data/database)
+- [Kaggle](https://www.kaggle.com/)
+- [IMF](https://www.imf.org/en/Home)
 
